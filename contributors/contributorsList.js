@@ -1903,6 +1903,11 @@ contributors = [
   },
   {
     id: 375,
+    fullname: "Amna Mubarak",
+    username: "https://github.com/AmnaMubarak",
+},
+  {
+    id: 376,
     fullname: "Prajwal Ramgond",
     username: "https://github.com/PRAJWAL-RAMGOND",
   },
