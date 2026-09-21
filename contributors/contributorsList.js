@@ -1912,7 +1912,7 @@ contributors = [
     username: "https://github.com/PRAJWAL-RAMGOND",
   },
   {
-    id: 376,
+    id: 377,
     fullname: "Syed Zohaib Ali",
     username: "https://github.com/Zohaibcode740",
   },
