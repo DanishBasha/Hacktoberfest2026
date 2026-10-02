@@ -1916,4 +1916,9 @@ contributors = [
     fullname: "Rahul Tangriya",
     username: "https://github.com/rahultangriya",
   },
+  {
+    id: 378,
+    fullname: "Siddhartha Singh",
+    username: "https://github.com/siddhartha220507",
+  },
 ];
