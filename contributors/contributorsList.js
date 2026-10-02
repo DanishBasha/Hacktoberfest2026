@@ -1905,7 +1905,7 @@ contributors = [
     id: 375,
     fullname: "Amna Mubarak",
     username: "https://github.com/AmnaMubarak",
-},
+  },
   {
     id: 376,
     fullname: "Prajwal Ramgond",
@@ -1916,4 +1916,9 @@ contributors = [
     fullname: "Rahul Tangriya",
     username: "https://github.com/rahultangriya",
   },
+  {
+    id: 378,
+    fullname: "Shilpa Santhosh Nair",
+    username: "https://github.com/Shilpa1805"
+  }
 ];
