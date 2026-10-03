@@ -66,15 +66,30 @@ void solveSudoku(vector<vector<char>> &bd)
 };
 
 
+// BINARY SEARCH IN PYTHON //
+
+```python
+def binary_search(arr: list[int], target: int) -> int:
+    left = 0
+    right = len(arr) - 1
+
+    while left <= right:
+        mid = (left + right) // 2
+
+        if arr[mid] == target:
+            return mid
+        elif arr[mid] < target:
+            left = mid + 1
+        else:
+            right = mid - 1
+
+    return -1
 
 
-// Rotate String By Danish Basha Leetcode #796
+if __name__ == "__main__":
+    numbers = [2, 5, 8, 12, 16, 23, 38, 56, 72, 91]
+    target_value = 23
+    result = binary_search(numbers, target_value)
+    print(f"Index: {result}")
+```
 
-class Solution {
-    public boolean rotateString(String s, String goal) {
-        if (s.length() != goal.length()) {
-            return false;
-        }
-        return (s + s).contains(goal);
-    }
-}
