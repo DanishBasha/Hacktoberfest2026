@@ -56,10 +56,8 @@
     }
     container.innerHTML = '';
     const max = limit ?? list.length;
-    list.forEach((item) => {
-      if (item.id <= max) {
-        container.appendChild(createCard(item));
-      }
+    list.slice(0, max).forEach((item) => {
+      container.appendChild(createCard(item));
     });
   }
 
@@ -70,6 +68,14 @@
     loadMoreBtn.hidden = visibleCount >= total;
   }
 
+  function updateContributorCount(count) {
+    const countElement = document.getElementById('contributor-count');
+    if (countElement) {
+      countElement.textContent = count;
+    }
+  }
+
+  updateContributorCount(contributors.length);
   render(contributors, visibleCount);
   updateLoadMoreState(contributors.length);
 
