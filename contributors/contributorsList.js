@@ -1905,7 +1905,7 @@ contributors = [
     id: 375,
     fullname: "Amna Mubarak",
     username: "https://github.com/AmnaMubarak",
-  },
+},
   {
     id: 376,
     fullname: "Prajwal Ramgond",
@@ -1918,9 +1918,6 @@ contributors = [
   },
   {
     id: 378,
-    fullname: "Shilpa Santhosh Nair",
-    username: "https://github.com/Shilpa1805"
-  }
     fullname: "Parth Mahajan",
     username: "https://github.com/ParthMahajan1020",
   },
@@ -1963,5 +1960,10 @@ contributors = [
     id: 386,
     fullname: "Ishir Singhal",
     username: "https://github.com/singhalishir1911",
+  },
+  {
+    id: 387,
+    fullname: "Shilpa Santhosh Nair",
+    username: "https://github.com/Shilpa1805",
   },
 ];
