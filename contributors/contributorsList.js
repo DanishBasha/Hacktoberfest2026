@@ -1956,4 +1956,9 @@ contributors = [
     fullname: "Ananya jain",
     username: "https://github.com/ananyajain327",
   },
+  {
+    id: 386,
+    fullname: "Ishir Singhal",
+    username: "https://github.com/singhalishir1911",
+  },
 ];
