@@ -1912,9 +1912,6 @@ contributors = [
     username: "https://github.com/PRAJWAL-RAMGOND",
   },
   {
-    id: 376,
-    fullname: "Peter Kim",
-    username: "https://github.com/peter9889466",
     id: 377,
     fullname: "Rahul Tangriya",
     username: "https://github.com/rahultangriya",
@@ -1968,5 +1965,10 @@ contributors = [
     id: 387,
     fullname: "Shilpa Santhosh Nair",
     username: "https://github.com/Shilpa1805",
+  },
+  {
+    id: 388,
+    fullname: "Peter Kim",
+    username: "https://github.com/peter9889466",
   },
 ];
