@@ -1976,4 +1976,9 @@ contributors = [
     fullname: "Muhammad_Haroon_Rashid",
     username: "https://github.com/MuhammadHaroonRashid",
   },
+  {
+    id: 390,
+    fullname: "Syed Zohaib Ali",
+    username: "https://github.com/Zohaibcode740",
+  },
 ];
