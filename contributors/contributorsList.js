@@ -1918,8 +1918,6 @@ contributors = [
   },
   {
     id: 378,
-    fullname: "Siddhartha Singh",
-    username: "https://github.com/siddhartha220507",
     fullname: "Parth Mahajan",
     username: "https://github.com/ParthMahajan1020",
   },
@@ -1942,5 +1940,10 @@ contributors = [
     id: 382,
     fullname: "Ayush Aman",
     username: "https://github.com/ayush23a",
+  },
+  {
+    id: 383,
+    fullname: "Siddhartha Singh",
+    username: "https://github.com/siddhartha220507",
   },
 ];
