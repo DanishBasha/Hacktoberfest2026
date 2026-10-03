@@ -1913,8 +1913,8 @@ contributors = [
   },
   {
     id: 377,
-    fullname: "Syed Zohaib Ali",
-    username: "https://github.com/Zohaibcode740",
+    fullname: "Rahul Tangriya",
+    username: "https://github.com/rahultangriya",
   },
   {
     id: 378,
@@ -1975,5 +1975,10 @@ contributors = [
     id: 389,
     fullname: "Muhammad_Haroon_Rashid",
     username: "https://github.com/MuhammadHaroonRashid",
+  },
+  {
+    id: 390,
+    fullname: "Syed Zohaib Ali",
+    username: "https://github.com/Zohaibcode740",
   },
 ];
