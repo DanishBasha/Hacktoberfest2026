@@ -1920,5 +1920,37 @@ contributors = [
     id: 378,
     fullname: "Ananya jain",
     username: "https://github.com/ananyajain327",
+    fullname: "Parth Mahajan",
+    username: "https://github.com/ParthMahajan1020",
+  },
+  {
+    id: 379,
+    fullname: "Berkay Pehlivan",
+    username: "https://github.com/berkay-byte",
+  },
+  {
+    id: 380,
+    fullname: "Kamini Prajapati",
+    username: "https://github.com/Kamini8707",
+  },
+  {
+    id: 381,
+    fullname: "Roshan Kumar",
+    username: "https://github.com/I-RoshanKumar",
+  },
+  {
+    id: 382,
+    fullname: "Ayush Aman",
+    username: "https://github.com/ayush23a",
+  },
+  {
+    id: 383,
+    fullname: "Siddhartha Singh",
+    username: "https://github.com/siddhartha220507",
+  },
+  {
+    id: 384,
+    fullname: "Sakshi Kumari",
+    username: "https://github.com/sakshikumari025",
   },
 ];
