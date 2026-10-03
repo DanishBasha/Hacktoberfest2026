@@ -1903,8 +1903,6 @@ contributors = [
   },
   {
     id: 375,
-    fullname: "Muhammad_Haroon_Rashid",
-    username: "https://github.com/MuhammadHaroonRashid",
     fullname: "Amna Mubarak",
     username: "https://github.com/AmnaMubarak",
 },
@@ -1972,5 +1970,10 @@ contributors = [
     id: 388,
     fullname: "Peter Kim",
     username: "https://github.com/peter9889466",
+  },
+  {
+    id: 389,
+    fullname: "Muhammad_Haroon_Rashid",
+    username: "https://github.com/MuhammadHaroonRashid",
   },
 ];
