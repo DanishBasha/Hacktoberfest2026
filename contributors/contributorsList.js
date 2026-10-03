@@ -1901,10 +1901,6 @@ contributors = [
     fullname: "JaviDB",
     username: "https://github.com/JavierTLoina",
   },
-   {
-    id: 375,
-    fullname: "Ishir Singhal",
-    username: "https://github.com/singhalishir1911",
   {
     id: 375,
     fullname: "Amna Mubarak",
@@ -1959,5 +1955,10 @@ contributors = [
     id: 385,
     fullname: "Ananya jain",
     username: "https://github.com/ananyajain327",
+  },
+  {
+    id: 386,
+    fullname: "Ishir Singhal",
+    username: "https://github.com/singhalishir1911",
   },
 ];
