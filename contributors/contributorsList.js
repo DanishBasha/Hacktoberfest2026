@@ -1917,9 +1917,6 @@ contributors = [
     username: "https://github.com/rahultangriya",
   },
   {
-    id: 388,
-    fullname: "Sakshi Kumari",
-    username: "https://github.com/sakshikumari025",
     id: 378,
     fullname: "Parth Mahajan",
     username: "https://github.com/ParthMahajan1020",
@@ -1948,5 +1945,10 @@ contributors = [
     id: 383,
     fullname: "Siddhartha Singh",
     username: "https://github.com/siddhartha220507",
+  },
+  {
+    id: 384,
+    fullname: "Sakshi Kumari",
+    username: "https://github.com/sakshikumari025",
   },
 ];
